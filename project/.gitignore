@@ -1,0 +1,5 @@
+secretfile.txt
+
+# this is a comment
+
+# using *.txt would ignore all text files.
