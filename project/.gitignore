@@ -1,5 +1,5 @@
+# text files that won't be included in the remote repository
 secretfile.txt
-
-# this is a comment
-
-# using *.txt would ignore all text files.
+passwords.txt
+# all DXF files won't be included in the remote repository
+*.dxf
